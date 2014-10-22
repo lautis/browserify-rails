@@ -76,7 +76,7 @@ module BrowserifyRails
     end
 
     def browserify(logical_path)
-      run_browserify(options, logical_path)
+      run_browserify(options, logical_path) + ";"
     end
 
     def browserify_cmd

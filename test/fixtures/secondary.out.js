@@ -5,4 +5,4 @@ module.exports = function() {
   console.log('some problem', library);
 };
 
-},{"./a_huge_library":"ReMerY"}]},{},[1])
+},{"./a_huge_library":"ReMerY"}]},{},[1]);

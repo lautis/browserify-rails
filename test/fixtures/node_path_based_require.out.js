@@ -6,4 +6,4 @@ console.log('answer', answer);
 },{"some_folder/answer":2}],2:[function(require,module,exports){
 module.exports = 42;
 
-},{}]},{},[1])
+},{}]},{},[1]);

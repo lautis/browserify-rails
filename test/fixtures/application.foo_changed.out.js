@@ -8,4 +8,4 @@ module.exports = function (n) { return n * 12 }
 },{"./nested":3}],3:[function(require,module,exports){
 module.exports.NESTED = true;
 
-},{}]},{},[1])
+},{}]},{},[1]);

@@ -23,4 +23,4 @@ module.exports = function() {
   console.log('library', library);
 };
 
-},{"./a_huge_library":"ReMerY"}]},{},[3])
+},{"./a_huge_library":"ReMerY"}]},{},[3]);
